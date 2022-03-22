@@ -62,6 +62,7 @@ img {
 h1 {
     font-size: 36px;
     font-weight: normal;
+    font-family: "Playfair Display";
     line-height: 40px;
     margin: 0 0 24px;
 }
